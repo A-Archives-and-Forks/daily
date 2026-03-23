@@ -45,7 +45,7 @@ main() {
   scripts/chnroute/chnroute.sh
 
   # hkgroute
-  scripts/chnroute/hkgroute.sh
+  scripts/hkgroute/hkgroute.sh
 
   # pac
   scripts/pac/pac.sh
