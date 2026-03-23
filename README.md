@@ -16,6 +16,8 @@ This script can be automatically generate something what you needed every day.
 - [`adblock/adblock.conf`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/adblock/adblock.conf)
 - [`chnroute/chnroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute.txt)
 - [`chnroute/chnroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chnroute/chnroute6.txt)
+- [`hkgroute/hkgroute.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/hkgroute/hkgroute.txt)
+- [`hkgroute/hkgroute6.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/hkgroute/hkgroute6.txt)
 - [`chinalist/chinalist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt)
 - [`gfwlist/gfwlist.txt`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/gfwlist/gfwlist.txt)
 - [`pac/gfwlist.pac`](https://raw.githubusercontent.com/pexcn/daily/gh-pages/pac/gfwlist.pac)
